@@ -13,11 +13,6 @@ https://replit.com/@Mr-Woo/
 
 
 
-these i think should not be here
-https://mr-woo-l.github.io/home/
-https://mr-woo-l.github.io/1to5-pbs-episodes/
-
-
 
 
 <!---
